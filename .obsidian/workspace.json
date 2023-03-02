@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d5ba04d07bc8750e",
+    "type": "split",
+    "children": [
+      {
+        "id": "720cb0c8142cf3b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3c6c19858a20207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+PETUNJUK TEKNIS PELAKSANAAN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18c3a5c303bde4ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.6 Persyaratan Akademik.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45931b799269672c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a08b0de8d7b61e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f36876aeca6f677b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1044604380d08f89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#B83B55",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35be8bb9570ffcab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "eafe8513c17eb567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c94bbc12ed395652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Not Used/Prompt Tambahan Bahasa Indonesia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 681.5
+  },
+  "right": {
+    "id": "7b201dc96a9cff0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f3ac82c3680daeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d483a7d318aabdaa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "+PETUNJUK TEKNIS PELAKSANAAN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e89696e7f2bef6d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "+PETUNJUK TEKNIS PELAKSANAAN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef759e03211da085",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "+PETUNJUK TEKNIS PELAKSANAAN.md"
+              }
+            }
+          },
+          {
+            "id": "9aa042d6c39fddb8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "4eebfdabb02f2cff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb8536a19ba344f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "9aa042d6c39fddb8",
+  "lastOpenFiles": [
+    "1.5 Sistematika Penulisan SL.md",
+    "+PETUNJUK TEKNIS PELAKSANAAN.md",
+    "1.6 Persyaratan Akademik.md",
+    "1.1 Pengertian Studi Literatur.md",
+    "Bab 1",
+    "Not Used/Prompt Tambahan Bahasa Indonesia.md",
+    "Lampiran J Contoh Penulisan Abstrak.md",
+    "Not Used/+Bab I.md",
+    "Not Used/+Struktur Isi dan Format Studi Literatur.md",
+    "4.1 Struktur Isi Laporan Studi literatur.md",
+    "Juknis SL_revisi 22-02-2023-PADUAN.pdf",
+    "Not Used/Bab II Landasan Teori.md",
+    "Not Used/Batasan Masalah.md",
+    "Not Used/I. Konsep Sistem Tanya Jawab.md",
+    "I. Konsep Sistem Tanya Jawab 1.md",
+    "Not Used/Latar belakang masalah.md",
+    "Not Used/Tujuan Penelitan.md",
+    "Untitled.md",
+    "Not Used/Sistematika Penulisan.md",
+    "Not Used/Rumusan Masalah.md",
+    "Not Used/Metode Penelitian.md",
+    "Not Used",
+    "Lampiran I Contoh daftar pustaka.md",
+    "Lampiran H Contoh daftar isi.md",
+    "Lampiran G Lembar Pengesahan SL.md",
+    "Lampiran F Contoh Cover Belakang Studi Litratur.md",
+    "Lampiran E Contoh Cover Depan Studi Literatur.md",
+    "Lampiran D Rekapitulasi Penilaian Seminar SL.md",
+    "Lampiran C Kartu Kehadiran Seminar SL.md",
+    "Juknis SL_revisi 22-02-2023-PADUAN.xlsx",
+    "Juknis SL_revisi 22-02-2023-PADUAN.txt",
+    "Cover buku SL.pptx",
+    "Logbook SL.docx"
+  ]
+}

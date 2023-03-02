@@ -1,0 +1,1043 @@
+PETUNJUK TEKNIS PELAKSANAAN 
+MATA KULIAH STUDI LITERATUR 
+DAN SEMINAR STUDI LITERATUR 
+JURUSAN MATEMATIKA
+FAKULTAS SAINS DAN TEKNOLOGI 
+UNIVERSITAS ISLAM NEGERI
+SUNAN GUNUNG DJATI BANDUNG
+2023
+LEMBAR PENGESAHAN
+Berdasarkan hasil Rapat Jurusan tanggal, 22 Februari 2023 ditetapkan
+PETUNJUK TEKNIS PELAKSANAAN MATA KULIAH STUDI LITERATUR 
+DAN SEMINAR STUDI LITERATUR
+JURUSAN MATEMATIKA
+dan berlaku sejak tanggal ditetapkan.
+Bandung, 2023
+Ketua Jurusan Matematika,
+Asep Solih Awalluddin, M.Si
+NIP.197611212009121004
+2
+DAFTAR ISI
+DAFTAR ISI..................................................................................................................1
+BAB I PENDAHULUAN..............................................................................................3
+1.1 Pengertian Studi Literatur ...............................................................................3
+1.2 Kedudukan dan Bobot.....................................................................................4
+1.3 Tujuan SL........................................................................................................4
+1.4 Materi SL.........................................................................................................4
+1.5 Sistematika Penulisan SL................................................................................5
+1.6 Persyaratan Akademik.....................................................................................5
+1.7 Pembimbing ....................................................................................................5
+BAB II MEKANISME STUDI LITERATUR ..............................................................7
+2.1 Pengajuan Studi Literatur................................................................................7
+2.2 Pelaksanaan Proses Bimbingan.......................................................................7
+2.3 Seminar Studi Literatur...................................................................................8
+2.3.1 Persyaratan pelaksanaan seminar.............................................................8
+2.3.2 Tata tertib seminar SL..............................................................................9
+2.4 Linimasa Studi Literatur dan Seminar Studi Literatur..................................10
+2.5 Diagram Alur Studi Literatur Dan Seminar Studi Literatur..........................11
+BAB III EVALUASI STUDI LITERATUR ...............................................................13
+3.1 Bentuk Evaluasi.............................................................................................13
+3.2 Sasaran Evaluasi............................................................................................13
+3.3 Hasil Evaluasi Studi Literatur .......................................................................14
+3.4 Revisi Laporan Studi Literatur......................................................................15
+3.5 Dokumentasi Studi Literatur.........................................................................15
+BAB IV STRUKTUR, ISI DAN FORMAT LAPORAN STUDI LITERATUR........16
+4.1 Struktur Isi Laporan Studi literatur ...............................................................16
+4.2 Format Laporan Studi literatur......................................................................21
+4.3 Format Penulisan Laporan Studi Literatur....................................................22
+4.3.1 Format Tulisan Sampul dan Lembar Pengesahan..................................22
+4.3.2 Tata penulisan ........................................................................................23
+4.3.3 Penomoran Halaman..............................................................................24
+4.3.4 Penulisan Daftar Pustaka .......................................................................24
+2
+4.3.5 Lampiran................................................................................................30
+DAFTAR PUSTAKA ..................................................................................................31
+LAMPIRAN.................................................................................................................32
+Lampiran A: Kartu Bimbingan SL ..........................................................................33
+Lampiran B: LogBook SL .......................................................................................34
+Lampiran C: Kartu Kehadiran Seminar SL .............................................................35
+Lampiran D: Rekapitulasi Penilaian Seminar SL ....................................................36
+Lampiran E: Contoh Cover Depan Studi Literatur..................................................38
+Lampiran F: Contoh Cover Belakang Studi Litratur ...............................................39
+Lampiran G: Lembar Pengesahan SL......................................................................40
+Lampiran H: Contoh daftar isi .................................................................................42
+Lampiran I: Contoh daftar pustaka ..........................................................................44
+Lampiran J: Contoh Penulisan Abstrak ...................................................................45
+BAB I
+PENDAHULUAN
+Matakuliah Studi Literatur (SL) merupakan bagian dari kurikulum jurusan 
+Matematika yang dapat memberikan kemampuan kepada mahasiswa dalam persiapan
+penelitian bidang matematika dengan menggunakan metode studi literatur. Pelaksanaan 
+perkuliahan SL secara teknis dan luaran berbeda dengan matakuliah lainnya dalam 
+kurikulum Jurusan Matematika. Dalam pelaksanaannya, setiap mahasiswa peserta SL 
+dibimbing oleh seorang dosen pembimbing untuk membantu dalam mengeksplorasi 
+materi SL dengan melakukan pengkajian literatur baik teori-teori dasar matematika 
+maupun teori dan implementasi lanjutan yang sesuai dengan topik yang dipilih. Selain 
+itu matakuliah SL ini juga memberikan pembelajaran kepada mahasiswa untuk 
+melakukan penyusunan laporan SL sesuai dengan kaidah-kaidah ilmiah. 
+Buku ini merupakan petunjuk teknis pelaksanaan matakuliah Studi Literatur yang 
+dibagi ke dalam empat bab penjelasan, beserta kelengkapan lampiran. Bab I 
+menjelaskan: Pengertian Studi Literatur (SL), kedudukan dan bobot, tujuan, materi SL, 
+sistematika penulisan, persyaratan akademik, dan proses bimbingan SL. Bab II 
+menjelaskan mekanisme pelaksanaan SL. Bab III menjelaskan evaluasi SL dan Bab IV 
+menjelaskan struktur, isi dan format laporan SL. Lampiran yang diperlukan berupa 
+formulir yang diperlukan dan template penulisan laporan SL, yang diperlukan dapat 
+dilihat di lampiran buku pedoman ini.
+1.1 Pengertian Studi Literatur
+Studi Literatur adalah suatu karya tulis ilmiah berupa paparan hasil kajian literatur yang 
+membahas suatu kajian dalam bidang matematika dengan menggunakan kaidah-kaidah 
+ilmiah. Studi Literatur ini harus memuat pembahasan masalah matematika atau 
+terapannya dalam berbagai bidang yang memperlihatkan kemampuan analitis dari 
+penulis yang merupakan pemahaman mengenai topik tertentu berdasarkan 
+perkembangan terkini, “state of the art” dan potensial problem dari penelitian 
+matematika yang sudah ada, yang ditemukan pada sumber literatur. Kajian SL berupa 
+eksplorasi dan pembahasan teori dasar matematika yang berkaitan dengan tema SL, 
+3
+pembahasan benang merah permasalahan metode matematika yang dibahas dalam 
+literatur yang dijadikan sebagai bahan kajian SL, dan penyusunan penulisan laporan SL 
+dengan memperhatikan kaidah-kaidah ilmiah yang berlaku.
+1.2 Kedudukan dan Bobot
+Studi Literatur ini mempunyai kedudukan sama dengan mata kuliah lain, tetapi 
+berbeda bentuk proses belajar mengajarnya. Studi Literatur di Jurusan Matematika ini
+berbobot 2 sks yang berupa pengkajian, penyusunan, dan penulisan buku studi literatur 
+dan diakhiri dengan Seminar Studi Literatur berbobot 1 sks. Studi Literatur dan Seminar 
+Studi Literatur merupakan mata kuliah paket yang tidak terpisah sehingga harus 
+dikontrak pada semester yang sama.
+1.3 Tujuan SL
+Setelah menyelesaikan Studi Literatur, mahasiswa mampu :
+(1) Melakukan studi kepustakaan (literatur) yang relevan dengan masalah yang 
+dikaji berkaitan dengan SL sebagai bagian dari penelitian matematika.
+(2) Mengeksplorasi topik tertentu berdasarkan perkembangan terkini, “state of 
+the art” dan potensial problem dari penelitian matematika yang sudah ada, 
+yang ditemukan pada sumber literatur.
+(3) Menyusun dan menulis hasil studi literatur tersebut secara kritis dalam 
+bentuk tulisan yang orisinil.
+1.4 Materi SL
+Materi Studi Literatur dapat diambil dari jurnal internasional atau prosiding 
+internasional terindeks (maksimal 5 tahun terakhir atau sesuai dengan rekomendasi
+pembimbing). Materi Studi Literatur disesuaikan dengan bidang kajian Kelompok 
+Keahlian di Jurusan Matematika, yaitu matematika murni, matematika industri dan 
+keuangan, statistika dan aktuaria, matematika komputasi, dan pemodelan matematika.
+4
+5
+1.5 Sistematika Penulisan SL
+Bab I : Latar Belakang, Rumusan Masalah, Batasan Masalah, Tujuan, 
+Sistematika Penulisan, dan Ruang Lingkup Penelitian
+Bab II : Landasan Teori 
+Bab III : Kajian Masalah Studi Literatur
+Bab IV : Simpulan dan Saran
+1.6 Persyaratan Akademik
+Mahasiswa yang akan mengambil mata kuliah Studi Literatur harus memenuhi 
+syarat sebagai berikut:
+1. Lulus minimal 75% dari total sks atau setara dengan 108 SKS, dan
+2. IPK ≥ 2,50.
+1.7 Pembimbing
+Selama proses penyusunan dan penulisan Studi Literatur ini, mahasiswa 
+dibimbing oleh seorang pembimbing yang ditentukan oleh jurusan dan disahkan dengan 
+surat keputusan dekan (SK Pembimbing SL). Pembimbing Studi Literatur adalah dosen 
+tetap Jurusan Matematika atau dosen tidak tetap yang direkomendasikan Jurusan, 
+berpendidikan minimal S2 dan memiliki jabatan fungsional minimal asisten ahli.
+Pembagian pembimbing dibatasi sesuai dengan kebijakan jurusan.
+Tugas dan tanggung jawab pembimbing adalah mengarahkan mahasiswa untuk 
+mempersiapkan pelaksanaan Studi Literatur, yang meliputi
+(1) Menentukan Topik atau Judul Studi Literatur
+a. Pemilihan Topik
+Pemilihan topik berdasarkan subbab 1.4, baik melalui tawaran dosen 
+pembimbing atau diusulkan oleh mahasiswa bersangkutan. Pembimbing 
+berkewajiban membantu mahasiswa merumuskan pokok permasalahan yang 
+akan dibahas sesuai dengan minat dan kemampuan mahasiswa.
+6
+b. Pembatasan Topik
+Jangkauan topik Studi Literatur hendaknya disesuaikan dengan kemampuan dan 
+waktu yang tersedia, mengingat ketentuan tentang batas masa bimbingan Studi 
+Literatur, yaitu satu semester. Pengambilan matakuliah Studi Literatur 
+maksimum dua semester. Apabila mahasiswa tidak mampu menyelesaikan 
+Studi Literatur dalam waktu dua semester, maka mahasiswa tersebut diharuskan 
+untuk mengajukan kembali Studi Literatur dengan judul dan pembimbing yang 
+berbeda.
+(2) Proses Pembimbingan
+Pembimbing harus menandatangani kartu bimbingan dan log-book yang 
+dibawa mahasiswa setiap waktu bimbingan dengan mencatatkan progress 
+pelaksanaan SL yang dilakukan sedikitnya satu pekan satu kali.
+(3) Penilaian Kelayakan Seminar SL
+Proses pelaksanaan SL diakhiri dengan Seminar SL. Seminar SL dapat 
+dilaksanakan jika pembimbing sudah menyatakan kelayakan mahasiswa untuk 
+mengikuti Seminar SL. Parameter kelayakan yang ditetapkan adalah kuantitas 
+bimbingan dan kualitas isi materi studi literatur yang telah dibahas yang dituliskan 
+dalam laporan yang lengkap.
+7
+BAB II
+MEKANISME STUDI LITERATUR
+2.1 Pengajuan Studi Literatur
+Mahasiswa mengisi formulir pengajuan rencana studi literatur yang telah 
+disediakan. Mahasiswa akan memperoleh pembimbing studi literatur yang selanjutkan 
+akan ditentukan topik studi literatur sesuai yang ditentukan oleh pembimbing. 
+Mahasiswa melakukan kontrak KRS mata kuliah Studi Literatur dan Seminar Studi 
+Literatur.
+2.2 Pelaksanaan Proses Bimbingan
+Bimbingan dilakukan sesuai dengan jadwal yang telah ditentukan oleh jurusan. 
+Setiap bimbingan, mahasiswa wajib membawa kartu bimbingan dan log-book. 
+Mahasiswa melaksanaan proses bimbingan dengan mengikuti enam tahapan sebagai 
+berikut:
+(1) Mahasiswa memilih topik SL dengan mengikuti langkah-langkah sebagai 
+berikut:
+a) Mahasiswa melakukan identifikasi tema penelitian (masalah yang akan 
+diteliti).
+b) Mahasiswa membuat pertanyaan riset (merumuskan permasalahan).
+c) Mahasiswa menghubungkan pertanyaan riset dengan disiplin ilmu 
+terkait.
+(2) Mahasiswa merumuskan masalah yang akan dikaji pada SL.
+(3) Mahasiswa mengumpulkan literatur sesuai dengan rumusan masalah topik SL, 
+dengan mengikuti langkah-langkah sebagai berikut:
+a) Mahasiswa memilih literatur yang akan direview.
+b) Mahasiswa mempelajari literatur, diantaranya:
+i. Mahasiswa melakukan skimming (membaca sekilas) terhadap 
+literatur yang telah diperoleh 
+ii. Mahasiswa menata literatur-literatur yang telah diperoleh.
+8
+iii. Mahasiswa melakukan mapping isi literatur (revisi topik, jika 
+diperlukan).
+iv. Mahasiswa melakukan scanning terhadap literatur yang telah 
+diperoleh.
+v. Mahasiswa membuat catatan hasil yang diperoleh dari proses 
+yang telah dilakukan pada poin i sd iv. 
+(4) Mahasiswa menelaah literatur terkait dengan cara meramu informasi dari tahap 
+ke 3, dilanjutkan dengan menata informasi dan pengetahuan yang telah 
+didapatkan. 
+(5) Mahasiswa menganalisa hasil dari tahap ke 4 (menelaah literatur), dengan 
+mengikuti langkah-langkah sebagai berikut:
+a) Mahasiswa menentukan pola logis dari kejadian-kejadian.
+b) Mahasiswa melakukan reframe claim untuk memenuhi kondisi yang 
+diperlukan oleh logic type yang dipilih. 
+(6) Mahasiswa menulis hasil analisa dalam format buku yang telah ditentukan.
+2.3 Seminar Studi Literatur
+Seminar studi literatur dilakukan sebanyak dua kali, yang terdiri dari seminar 
+progress dan seminar akhir. Seminar progress dilakukan di pertengahan semester 
+dengan dosen pembimbing untuk melihat perkembangan sementara studi literatur. 
+Sementara seminar akhir dilakukan pada akhir semester setelah dinyatakan layak oleh 
+dosen pembimbing, dilakukan dihadapan dosen penguji. Jika sudah disetujui oleh dosen 
+pembimbing, mahasiswa mengajukan seminar ke jurusan untuk ditentukan jadwal 
+pelaksanaan seminar.
+2.3.1 Persyaratan pelaksanaan seminar 
+Persyaratan pelaksanaan seminar yang harus dilampirkan adalah sebagai berikut: 
+1. Formulir pengajuan
+2. SK Pembimbing
+3. Kartu bimbingan (minimal 80% kehadiran)
+4. Kartu kehadiran peserta seminar (minimal 6 kali menghadiri seminar studi literatur 
+peserta lain)
+5. Draft studi literatur yang telah ditandatangani oleh pembimbing.
+9
+Jurusan menentukan penguji seminar studi literatur. Seminar dilaksanakan 
+terbuka untuk mahasiswa dan dosen.
+2.3.2 Tata tertib seminar SL
+Tata tertib seminar SL adalah sebagai berikut:
+1. Peserta paling lambat sudah berada di ruang seminar 15 menit sebelum seminar 
+dimulai.
+2. Peserta mengenakan pakaian rapi, bersepatu, dan jas almamater.
+3. Bagi mahasiswa lain yang menghadiri seminar SL, diwajibkan membuat review
+hasil seminar. Kemudian, setelah seminar selesai lembar review tersebut akan 
+ditandatangani oleh pembimbing atau penguji seminar.
+4. Pelaksanaan seminar dilakukan dengan agenda berikut :
+a. Pembukaan dilakukan oleh pembimbing
+b. Tilawah Al-Quran oleh peserta
+c. Presentasi topik SL (maksimal 20 menit)
+d. Sesi tanya jawab oleh penguji dan audience
+e. Penilaian oleh pembimbing dan penguji
+f. Penutupan seminar oleh pembimbing
+g. Hasil penilaian oleh pembimbing dan penguji diberikan setelah mahasiswa 
+menyelesaikan revisi studi literatur.
+10
+2.4 Linimasa Studi Literatur dan Seminar Studi Literatur
+No Kegiatan Pekan ke
+1 Mahasiswa memilih topik SL. 0 2 Mahasiswa merumuskan masalah yang 
+akan dikaji pada SL.
+1 (klasikal/tutorial)
+2 (dengan dosen pembimbing) 
+3 Mahasiswa mengumpulkan literatur 
+sesuai dengan topik SL.
+3 4 Mahasiswa menelaah literatur terkait. 4, 5, dan 6
+5 Mahasiswa menganalisa hasil dari tahap 
+ke 4 (menelaah literatur).
+7, 8, 9 dan 10
+6 Mahasiswa menulis hasil analisa dalam 
+format buku.
+11, 12, 13
+7 Mahasiswa melaksanakan seminar SL 14
+8 Mahasiswa merevisi SL sesuai dengan 
+hasil seminar SL.
+15
+9 Mahasiswa mengumpulkan buku SL 16 dan 17
+11
+2.5 Diagram Alur Studi Literatur Dan Seminar Studi Literatur
+Tahapan pengajuan paper:
+1. Dosen merekomendasikan paper;
+2. Mahasiswa cek paper yang sudah diajukan di 
+https://s.id/DataSL
+3. Jika paper sudah digunakan, maka segera ganti 
+paper Anda. Jika belum, maka lanjutkan ke 
+tahapan selanjutnya;
+Persyaratan akademik pengajuan rencana SL:
+1. Lulus minimal 75% dari total sks atau 
+setara dengan 108 SKS, dan 
+2. IPK minimal 2,50
+Sebelum KRS
+PENGUMUMAN 
+HASIL VERIFIKASI
+KOORDINATOR SL MELAKUKAN 
+VERIFIKASI, DILANJUTKAN DENGAN 
+PENENTUAN DOSEN PEMBIMBING OLEH 
+TIM DOSEN KELOMPOK KEAHLIAN 
+JURUSAN 
+MULAI
+MAHASISWA MENGISI FORMULIR 
+PENGAJUAN RENCANA STUDI LITERATUR 
+DI https://s.id/PengajuanSL
+A
+MELAKUKAN BIMBINGAN
+MENGONTRAK MK STUDI LITERATUR DAN 
+SEMINAR STUDI LITERATUR DI KRS
+LULUS
+TIDAK
+DOSEN PEMBIMBING MENENTUKAN PAPER 
+SL YANG AKAN DIAJUKAN 
+MAHASISWA UPLOAD PAPER DI 
+https://s.id/PaperSL
+12
+JURUSAN MENETAPKAN JADWAL SEMINAR 
+DAN PENGUJI
+PELAKSANAAN SEMINAR SL (DARING)
+REVISI DENGAN PENGUJI DAN PEMBIMBING
+UPLOAD BUKU SL SIAP CETAK DI 
+http://bit.ly//bukuSLcetak
+SELESAI
+Mahasiswa harus konfirmasi kepada dosen penguji 
+paling lambat H-1.
+Format Buku SL dapat dilihat di Buku Panduan Studi 
+Literatur https://math.uinsgd.ac.id/download/
+A
+PENDAFTARAN SEMINAR SL DI 
+http://salam.uinsgd.ac.id
+UPLOAD BERKAS DI https://bit.ly/Pendaftaran_SL
+KOORDINATOR SL MELAKUKAN VERIFIKASI
+Persyaratan pelaksanaan seminar SL:
+Draft studi Literatur yang telah disetujui oleh 
+pembimbing;
+Kartu bimbingan Studi Literatur minimal 80% 
+kehadiran;
+Kartu kehadiran Studi Literatur minimal 6 kali dan 
+hasil resume.
+PENGUMUMAN 
+HASIL VERIFIKASI
+LULUS
+TIDAK
+BAB III
+EVALUASI STUDI LITERATUR
+3.1 Bentuk Evaluasi
+Evaluasi Studi Literatur terdiri dari evaluasi mata kuliah Studi Literatur dan 
+Seminar Studi Literatur. Evaluasi dimaksudkan untuk mengukur pemahaman 
+mahasiswa terhadap topik yang dibahas. Evaluasi akhir dilakukan dalam bentuk 
+seminar. Nilai Seminar Studi Literatur yang diperoleh merupakan kombinasi dari 60% 
+nilai pembimbing dan 40% nilai penguji. Sedangkan nilai Mata Kuliah Studi Literatur 
+adalah nilai yang diberikan oleh pembimbing. Nilai tersebut merupakan nilai Mata 
+Kuliah Studi Literatur dan Seminar Studi Literatur. Adapun komponen penilaian 
+sebagai berikut:
+1) Ketepatan langkah-langkah dalam penyelesaian SL
+2) Ketepatan (kualitas kegiatan pada tiap langkah).
+3) Kualitas laporan: ada proses proofreading dengan teman sesama kelompok 
+bimbingan.
+4) Kualitas presentasi 
+5) Kompleksitas permasalahan yang dikaji, yang dikategorikan ke dalam tingkat: 
+kompleks, sedang,dan mudah
+Komponen penilaian ada pada lampiran D. 
+3.2 Sasaran Evaluasi
+Sasaran evaluasi terhadap buku yang ditulis mahasiswa adalah sebagai berikut :
+(1) Sistematika penulisan Studi Literatur, merujuk pada poin 1.5.
+(2) Isi Studi Literatur yaitu hasil kajian tentang topik yang telah dipilih, sesuai dengan 
+poin 1.7.1 bagian 1.
+(3) Analisis, yaitu pembahasan kajian tentang topik yang telah dipilih. Hal ini 
+bergantung pada kemampuan mahasiswa untuk merumuskan masalah secara jelas, 
+mempertanggungjawabkan pemecahan masalah, serta mampu menggunakan 
+literatur untuk menyelesaikan masalah tersebut.
+13
+14
+(4) Cara menanggapi dan memecahkan masalah, ditentukan berdasarkan pada:
+a. Kemandirian,
+b. Kreatifitas,
+c. Orisinalitas,
+d. Motivasi,
+e. Ketekunan, dan
+f. Etika.
+Penilaian untuk Studi Literatur (diberikan pada seminar) dituangkan dalam berita 
+acara seminar, dapat dilihat pada Lampiran E.
+3.3 Hasil Evaluasi Studi Literatur
+Hasil evaluasi Studi Literatur berupa nilai mata kuliah Studi Literatur dan 
+Seminar Studi Literatur diberikan dalam rentang 50 – 100. Nilai akhir evaluasi studi 
+literatur merujuk pada poin 3.1.
+Nilai akhir ini diubah menjadi huruf mutu, sesuai cara penilaian sebagai berikut: 
+𝐴 ≥ 80
+70 ≤ 𝐵 < 80
+60 ≤ 𝐶 < 70
+50 ≤ 𝐷 < 60
+ Mahasiswa diberikan nilai dengan huruf mutu T baik mata kuliah Studi 
+Literatur dan Seminar Studi Literatur jika belum menyelesaikan seluruh proses yang 
+ditetapkan. Nilai dapat berubah jika seluruh proses diselesaikan maksimal satu bulan 
+setelah nilai T keluar dan akan otomatis menjadi E, jika tidak dapat menyelesaikan 
+dalam waktu tersebut.
+Huruf mutu Mata Kuliah Studi Literatur adalah huruf mutu yang diperoleh 
+mahasiswa selama bimbingan Studi Literatur, dan huruf mutu Mata Kuliah Seminar 
+Studi Literatur adalah huruf mutu yang diperoleh mahasiswa pada Seminar Studi 
+Literatur.
+Hasil penilaian yang diberikan oleh penguji pada seminar adalah final, artinya, 
+apabila mahasiswa diharuskan memperbaiki studi literaturnya, huruf mutunya tidak 
+akan berubah setelah studi literatur tersebut diperbaiki.
+3.4 Revisi Laporan Studi Literatur 
+Dalam seminar Studi Literatur, dimungkinkan adanya masukan baru dari penguji, 
+yang dapat diusulkan sebagai bahan revisi laporan Studi Literatur. Batas pengumpulan 
+hasil revisi laporan studi literatur mengikuti jadwal yang sudah ditentukan.
+3.5 Dokumentasi Studi Literatur
+Setelah seminar, Studi Literatur dibuat dalam bentuk laporan yang sudah dicek 
+plagiarisme dengan menggunakan aplikasi Turnitin tidak lebih dari 25% (untuk bab 1, 
+bab 2 dan bab 3) dan sudah ditandatangani oleh dosen pembimbing dan dosen penguji 
+dalam bentuk buku sesuai template yang telah disediakan dan diserahkan dalam bentuk 
+softcopy melalui link yang sudah disediakan. 
+15
+16
+BAB IV
+STRUKTUR, ISI DAN FORMAT LAPORAN STUDI LITERATUR
+Laporan Studi literatur adalah dokumen final laporan pekerjaan studi literatur 
+yang sudah dikerjakan oleh mahasiswa. Buku tersebut menjelaskan mulai dari latar 
+belakang penelitian, tujuan dari penelitian, hal-hal yang dikerjakan, sampai dengan 
+hasil penelitian yang sudah dilakukan dan penarikan kesimpulan atas hasil penelitian 
+tersebut. Laporan Studi literatur merupakan dokumen yang ditulis dalam bahasa yang 
+baku. 
+Hal-hal yang dibahas dalam bagian ini adalah sebagai berikut:
+1. Struktur Isi
+2. Format Laporan Studi literatur
+3. Format Penulisan
+4.1 Struktur Isi Laporan Studi literatur
+Laporan laporan studi literatur ini mempunyai struktur isi sebagai berikut:
+- Halaman Sampul (depan dan belakang)
+- Halaman Judul
+- Halaman Pengesahan
+- Abstrak dalam bahasa Indonesia
+- Halaman Kata Pengantar
+- Daftar Isi
+- Daftar Gambar (jika ada)
+- Daftar Tabel (jika ada)
+- Daftar Simbol (jika ada)
+- Daftar Lampiran
+- Bab I Pendahuluan
+- Bab II Landasan Teori
+- Bab III Kajian Utama Studi Literatur (Judul disesuaikan dengan Topik 
+Studi Literatur)
+- Bab IV Kesimpulan dan Saran
+- Daftar Pustaka
+- Lampiran
+Berikut adalah keterangan untuk tiap bagian:
+1. HALAMAN SAMPUL
+a. Sampul depan: berisi judul studi literatur dalam bahasa Indonesia, nama 
+penulis dan NIM, logo UIN, nama fakultas, nama universitas, lokasi dan 
+tahun diterbitkan. Contoh penulisan halaman sampul dapat dilihat pada 
+lampiran E.
+b. Sampul belakang: berisi deskripsi isi buku, foto, nama dan NIM penulis. 
+Contoh penulisan halaman sampul belakang dapat dilihat pada lampiran G.
+2. HALAMAN PENGESAHAN
+■ Berisi persetujuan buku/ Studi literatur oleh Pembimbing Studi literatur yang 
+bersangkutan, Penguji Seminar dan Ketua Jurusan.
+■ Contoh penulisan halaman pengesahan dapat dilihat pada lampiran G.
+3. ABSTRAK
+■ Memberikan deskripsi studi literatur singkat mengenai latar belakang 
+masalah, pekerjaan yang dilakukan dan kesimpulan singkat hasil pekerjaan 
+yang dilakukan, dimuat dalam 75-250 kata.
+■ Contoh penulisan abstrak dapat dilihat pada lampiran J.
+4. HALAMAN KATA PENGANTAR
+■ Menyampaikan hal-hal yang dianggap penting dan bisa membantu didalam 
+mengarahkan pembaca didalam memahami isi laporan studi literatur.
+■ Kata pengantar juga bisa berisi ucapan terima kasih kepada pihak-pihak yang 
+berperan dalam penyusunan studi literatur (Ketua Jurusan, Pembimbing SL, 
+Penguji, dll). Ucapan terima kasih dituliskan dalam bahasa formal. Hindarkan 
+ucapan terima kasih yang tidak perlu.
+5. DAFTAR ISI
+■ Daftar isi berisi urutan penulisan bab-bab didalam laporan.
+■ Daftar isi dimulai dari: Halaman Judul.
+■ Contoh penulisan daftar isi dapat dilihat pada lampiran H.
+17
+6. DAFTAR GAMBAR ▪ Berisi daftar semua gambar yang ada di badan skripsi (tidak termasuk 
+lampiran).
+▪ Nomor gambar diurutkan berdasarkan nomor urut menggunakan angka arab 
+(1,2,3,…).
+▪ Nama gambar yang berbeda digunakan untuk nomor gambar yang berbeda.
+7. DAFTAR TABEL
+▪ Berisi daftar semua tabel yang ada di badan buku Studi Literatur (tidak 
+termasuk lampiran).
+▪ Nomor tabel diurutkan berdasarkan nomor urut menggunakan angka arab 
+(1,2,3,…).
+▪ Nama tabel yang berbeda digunakan untuk nomor tabel yang berbeda.
+8. DAFTAR SIMBOL
+Berisi daftar simbol-simbol yang sering muncul dan/ atau dianggap penting 
+dalam badan Studi Literatur (tidak perlu semua).
+9. DAFTAR LAMPIRAN
+Berisi daftar semua judul lampiran yang disertakan didalam laporan studi 
+literatur.
+10. BAB I PENDAHULUAN
+Bagian pendahuluan berisi hal-hal sebagaimana berikut:
+▪ Latar belakang masalah
+▪ Rumusan Masalah
+▪ Batasan Masalah
+▪ Tujuan Penelitian
+▪ Ruang Lingkup Penelitian
+▪ Sistematika Penulisan
+Berikut adalah keterangan untuk tiap sub bab:
+Latar belakang masalah
+18
+▪ Berisi hal-hal/ masalah yang menjadi alasan pemilihan judul/ topik penelitian, 
+serta hal-hal yang ingin dicapai dalam studi literatur tersebut.
+▪ Tujuan yang ingin dicapai dan disesuaikan dengan judul.
+▪ Setiap tujuan yang dikemukakan nantinya akan terdapat jawabannya di 
+kesimpulan.
+▪ Manfaat menyatakan kegunaan praktis dari hasil penelitian yang dilakukan.
+Rumusan Masalah
+▪ Menjabarkan permasalahan-permasalahan yang harus diselesaikan dalam 
+mencapai tujuan.
+▪ Setiap masalah dalam rumusan masalah akan mempunyai jawaban, baik di 
+model sistem, lampiran, analisa maupun kesimpulan.
+Batasan Masalah
+▪ Menyatakan hal-hal yang menjadi fokus pembahasan dalam pengerjaan studi 
+literatur, sehingga pembaca dapat memahami sampai sebatas mana pekerjaan 
+dilakukan.
+▪ Batasan masalah merupakan penyempitan masalah dari sesuatu hal yang 
+mempunyai aspek cukup banyak, dikurangi aspeknya menjadi lebih sedikit.
+Tujuan Penelitian
+▪ Menyatakan hal-hal yang menjadi tujuan yang akan dikerjakan dalam tugas 
+studi literatur
+▪ Tujuan penelitian dituliskan secara spesifik dan jelas
+Ruang Lingkup Penelitian
+Menyatakan ruang lingkup kajian yang mendasari penelitian yang sedang 
+dilakukan. Uraian berupa permasalahan-permasalahan dan solusi-solusinya 
+yang telah dilakukan pada penelitian terkait berdasarkan urutan waktu.
+Sistematika Penulisan
+▪ Menyatakan bagaimana struktur laporan dibuat.
+▪ Menjelaskan apa isi tiap bagian/ bab yang ditulis.
+11. BAB II LANDASAN TEORI
+19
+▪ Teori penunjang/ dasar yang menjelaskan hal-hal yang berhubungan dengan 
+topik SL. ▪ Tidak perlu terlalu banyak/ detail, tetapi cukup memberikan dasar bagi 
+pembaca untuk memahami istilah-istilah/ terminologi dan maksud serta 
+materi yang tertuang dalam laporan studi literatur.
+12. BAB III PEMBAHASAN TOPIK STUDI LITERATUR
+Dalam bab ini diuraikan tentang: ▪ Penelitian terkait atau penelitian matematika terdahulu dan studi pustaka yang 
+berkaitan yang mendasari dan berhubungan dengan topik SL.
+▪ Topik SL diekplorasi berdasarkan perkembangan terkini, “state of the art” dan 
+potensial problem dari penelitian matematika yang sudah ada, yang 
+ditemukan pada sumber literatur. ▪ inti penelitan matematika yang dilakukan, berupa pembahasan rinci tentang 
+topik tersebut, baik secara teoritis maupun analisis.
+▪ Belum ada percobaan, tetapi mahasiswa dapat melakukan simulasi sederhana 
+untuk pengujian metode yang dikaji.
+13. BAB IV KESIMPULAN DAN SARAN
+▪ Bagian kesimpulan dan saran dipisahkan.
+▪ Kesimpulan berisi hal-hal yang bisa disimpulkan dari hasil dan analisa yang 
+dilakukan pada Bab III.
+▪ Kesimpulan menjawab apa yang sudah dinyatakan dalam tujuan penelitan.
+▪ Kesimpulan memaparkan knowledge baru yang didapatkan selama proses 
+pembahasan SL.
+▪ Saran berisi hal-hal yang mungkin dilakukan untuk pengembangan penelitian 
+baik sebagai kelanjutan/ pengembangan penelitian ataupun sebagai 
+pembanding terhadap hasil yang sudah didapat.
+14. DAFTAR PUSTAKA
+▪ Berisi sumber-sumber yang dirujuk dalam menuliskan/ menyusun studi 
+literatur.
+20
+▪ Pustaka yang dituliskan adalah referensi yang memang benar-benar dirujuk 
+dalam laporan.
+▪ Penulisan sumber referensi mengikuti aturan yang berlaku. ▪ Sumber referensi disusun urut berdasar standar Institute of Electrical and 
+Electronics Engineers (IEEE) dengan menggunakan aplikasi Mendeley, 
+Zotero. ▪ Contoh penulisan daftar pustaka dapat dilihat pada lampiran I.
+15. LAMPIRAN
+Berisi hal-hal yang dirasa perlu dan penting untuk dilampirkan dalam rangka 
+mendukung pembaca dalam memahami isi laporan studi literatur, misalnya data 
+pendukung, listing program, spesifikasi standar, spesifikasi alat, teori pendukung 
+yang membahas suatu topik khusus tertentu, dan lain sebagainya.
+4.2 Format Laporan Studi literatur
+Bentuk, ukuran dan warna buku Studi Literatur:
+- Laporan studi literatur ditulis di kertas B5 (176 X 250 mm) standar HVS Putih 80 
+gr/m2. - Laporan Studi Literatur dijilid dalam bentuk Buku Studi Literatur menggunakan
+cover kreatif berwarna dominan merah dengan kode warna #B83B55 dan tulisan 
+berwarna hitam.
+Bahasa yang digunakan dalam buku studi literatur menggunakan bahasa 
+Indonesia secara keseluruhan. Buku studi literatur harus dilengkapi dengan abstrak 
+yang menggunakan bahasa Indonesia.
+Bahasa Indonesia yang digunakan harus bahasa Indonesia yang berpedoman pada 
+Pedoman Umum Ejaan Bahasa Indonesia (PUEBI), Pedoman Umum Pembentukan 
+Istilah, Kamus Besar Bahasa Indonesia, dan kamus-kamus bidang khusus yang 
+diterbitkan oleh Pusat Pembinaan dan Pengembangan Bahasa Departemen Pendidikan 
+Nasional.
+Kalimat harus utuh dan lengkap. Pergunakan tanda baca seperlunya dan 
+secukupnya agar dapat dibedakan anak kalimat dari kalimat induknya, kalimat 
+keterangan dari kalimat yang diterangkan, dan sebagainya. Kata ganti orang, terutama 
+kata ganti orang pertama (saya dan kami) tidak digunakan dalam kalimat kutipan. 
+21
+Susunlah kalimat sedemikian rupa sehingga kalimat tersebut tidak perlu memakai kata 
+ganti orang.
+4.3 Format Penulisan Laporan Studi Literatur
+4.3.1 Format Tulisan Sampul dan Lembar Pengesahan
+Jenis dan ukuran huruf pada sampul adalah sebagai berikut:
+a. Judul Bahasa Indonesia : Jenis huruf (font): Cambria , Ukuran huruf:12, cetak tebal 
+(Bold).
+b. Kata “STUDI LITERATUR” : Jenis huruf (font): Cambria, Ukuran huruf : 12, cetak 
+tebal (Bold).
+c. Kalimat “Disusun untuk memenuhi syarat kelulusan pada matakuliah studi literatur 
+di Jurusan Matematika”: jenis huruf sama, ukuran huruf 11. 
+d. Kata “oleh”: jenis huruf sama, ukuran 11, cetak tebal (Bold).
+e. Nama mahasiswa : jenis huruf sama, ukuran 11, cetak tebal (Bold).
+f. NIM: jenis huruf sama, ukuran 11, cetak tebal (Bold).
+g. Tulisan nama Jurusan, Fakultas, Universitas dan Tahun: ukuran 12, cetak tebal 
+(Bold), menggunakan huruf kapital.
+h. Punggung buku berisi judul SL, nama dan NIM penulis
+i. Sampul belakang berisi deskripsi isi buku dan identitas penulis (foto, nama,NIM)
+Contoh penulisan sampul dapat dilihat di lampiran E dan F.
+Jenis dan ukuran huruf pada lembar pengesahan adalah sebagai berikut :
+a. Urutan penulisan mulai dari judul dan identitas penulis, sama dengan point 4.3.1 
+a sampai dengan 4.3.2 b
+b. Nama kota dan tanggal (Bandung, __/__/__), jenis huruf sama ukuran 11.
+c. Tulisan “Menyetujui”,”Dosen Pembimbing SL” dan “Dosen Penguji SL” jenis 
+huruf sama ukuran 11, sedangkan nama pembimbing dan penguji, serta NIP 
+dengan cetak tebal (bold).
+d. Tulisan ”Mengetahui, Ketua Jurusan Matematika” jenis huruf sama ukuran 11, 
+sedangkan nama pembimbing dan NIP dengan cetak tebal (bold).
+Contoh penulisan Lembar Pengesahan dapat dilihat di lampiran G.
+22
+23
+4.3.2 Tata penulisan
+Tata tulis adalah format/ aturan penulisan yang menjadi acuan dalam menuliskan 
+buku studi literatur yang berhubungan dengan bagaimana menuliskan dan menata 
+tulisan dalam laporan. Aturan-aturan berikut digunakan sebagai acuan dalam penulisan 
+buku studi literatur. Sedangkan aturan yang belum tercantum disini, disesuaikan dengan 
+kaidah-kaidah umum yang berlaku dalam tata tulis bahasa Indonesia.
+1. Batas Atas: 2 cm, batas kiri: 3 cm, batas bawah : 2 cm, batas kanan : 2 cm.
+2. Jarak header dan footer: 1,5 cm.
+3. Huruf yang digunakan adalah Cambria, kecuali judul bab yang berukuran 12 pts, 
+semua bagian ditulis dalam ukuran font 11.
+4. Judul dan sub judul ditulis dalam huruf tebal (bold).
+5. Istilah asing ditulis dalam cetak miring (italic).
+6. Naskah dicetak pada dua muka halaman (bolak-balik) dan dibuat dalam layout satu 
+kolom.
+7. Antar baris tulisan diberi jarak 1 spasi.
+8. Antar judul Bab dan awal badan tulisan, diberi jarak 3 spasi.
+9. Antar judul sub bab dan awal tulisan, diberi jarak 2 spasi.
+10. Huruf pertama sesudah tanda baca koma (,), titik koma (;), titik ganda (:), dan titik 
+(.) dicetak dengan menyisihkan satu spasi (ruangan antara dua huruf) dibelakang 
+tanda baca tersebut.
+11. Penomoran bab dan sub bab disajikan menggunakan struktur angka arab bertitik. 
+Penomoran sub bab maksimal 4 angka.
+12. Awal paragraf isi tulisan ditulis kedalam (first time indent) sejauh 10mm (1cm).
+13. Persamaan matematika dinomori dengan angka Arab dalam kurung pada sisi kanan 
+(rata kanan) kolom. Penomoran persamaan diawali dengan nomor bab dilanjutkan 
+dengan tanda titik baru nomor urut dalam bab tersebut. Contoh: (2.1) artinya rumus 
+ke-1 dalam bab 2.
+14. Nomor urut dan judul tabel ditulis pada bagian atas tabel yang dijelaskan dengan 
+nama tabel. Penomoran sama dengan penomoran persamaan dengan menyebutkan 
+nomor bab. 
+24
+Contoh:
+Tabel 4.1 Tabel Logika Matematika.
+p q B B S S B B B B B S S B S B S S S B B S S B B S S S B B S S B B
+15. Nomor urut dan judul gambar ditulis pada bagian bawah gambar yang dijelaskan 
+dengan nama gambar. Penomoran sama dengan penomoran persamaan dengan 
+menyebutkan nomor bab. 
+ Contoh:
+Gambar 2.3 Topologi Jaringan Komputer.
+4.3.3 Penomoran Halaman
+Halaman-halaman abstrak dan bagian awal (dari halaman abstrak sampai daftar 
+istilah) studi literatur diberi nomor yang terpisah dari nomor halaman tubuh utama studi 
+literatur. Halaman-halaman bagian awal diberi nomor dengan angka romawi kecil ( i, 
+ii, iii, …), halaman tubuh utama studi literatur diberi angka Arab (1,2,3,…).
+4.3.4 Penulisan Daftar Pustaka
+Penulisan daftar pustaka meliputi:
+- Pustaka berupa text book.
+- Pustaka berupa jurnal ilmiah.
+- Pustaka dari Internet.
+- Pustaka berupa kutipan dari Majalah
+p q p  q p  q p → q p  q
+Daftar pustaka disusun berdasarkan standar Institute of Electrical and Electronics 
+Engineers (IEEE style) dengan nama pengarang pustaka-pustaka diurut sesuai urutan 
+penyebutan rujukannya dan diberi nomor urut angka arab dalam kurung siku […]. 
+Informasi umum penulisan daftar pustaka dengan mengacu pada IEEE style, adalah 
+sebagai berikut [1]:
+1. Daftar entri harus sama persis dengan urutan numerik yang sama dengan teks.
+2. Nama pertama dari penulis dituliskan dalam bentuk inisial dan nama belakang 
+ditulis lengkap.
+3. Huruf pertama pada kata pertama sebuah artikel atau judul bab ditulis kapital, 
+sedangkan untuk judul buku ditulis huruf kapital pada awal setiap kata.
+4. Judul artikel atau judul bab diberikan tanda kutip, sedangkan judul buku, jurnal, 
+dan website dicetak miring.
+Pada saat akan mengutip lebih dari satu sumber pada suatu keterangan, metode 
+yang digunakan adalah menuliskan nomor-nomor sesuai pustaka, dan dipisahkan oleh 
+koma atau garis antara pustaka. 
+Contoh :
+[1], [3], [5] : untuk 3 pustaka berbeda.
+[1] – [5] : untuk rentang pustaka.
+Atau dapat juga dituliskan seperti berikut
+[1, 3, 5] : untuk 3 pustaka berbeda.
+[1 – 5] : untuk rentang pustaka.
+Contoh penulisan daftar pustaka sebagai berikut :
+1. Perujukan dari buku atau laporan yang diterbitkan
+Urutan penulisan data-data mengenai pustaka dari laporan yang diterbitkan diawali 
+dengan nama penulis yang ditulis dengan nama pertama, nama kedua, dan nama 
+keluarga atau given name jika tidak mempunyai nama keluarga. Nama pertama dan 
+nama kedua dapat disingkat. Nama penulis diakhiri dengan koma dan kemudian 
+diikuti dengan judul laporan, tempat terbit, nama penerbit, dan diakhiri dengan 
+25
+26
+tahun terbitan serta nomor halaman (jika ada). Judul laporan diketik dalam huruf 
+miring. Edisi laporan diletakkan setelah judul laporan.
+Format standard :
+[#] A. A. Pengarang/editor, Judul: Subjudul (dalam italics), Edisi (apabila 
+bukan yang pertama), Vol. (bila multivolume). Tempat publikasi: Penerbit, 
+Tahun, noHalaman(s) (jika ada)
+Contoh:
+[1] D. M. Bates, D.G. Wates, Non Linear Regression Analysis and its Applications, 
+New York: John Wiley & Sons, 1988.
+[2] W. D. Callister, Material Science and Engineering: An Introduction, Edisi 2, 
+John Wiley & Sons, 1991.
+[3] World Bank, Information and Communication Technologies: A World Bank
+group strategy. Washington, DC : World Bank, 2002. 
+[4] Australia. Attorney Generals Department. Digital Agenda Review, 4 vols. 
+Canberra: Attorney-General’s Department, 2003. 
+[5] Bell Telephone Laboratories Technical Staff, Transmission System for 
+Communications, Bell Telephone Laboratories, 1995. 
+[6] E. Sukaesih, “Teorema pemetaan kontraktif pada himpunan tertutup di ruang 
+norm-n,” Ph.D. dissertation, Jur. Matematika., ITB, Bandung, Indonesia, 2017.
+2. Perujukan dari laporan yang telah diterjemahkan
+Urutan penulisan data-data mengenai pustaka dari laporan yang telah diterjemahkan 
+diawali dengan nama penulis yang ditulis dengan nama pertama, kedua dan nama 
+keluarga atau given name bila tidak mempunyai nama keluarga. Nama pertama dan 
+kedua dapat disingkat. Nama penulis diakhiri dengan koma dan diikuti dengan judul 
+laporan dalam bahasa terjemahannya, setelah itu diikuti dengan kata “terjemahan “ 
+lalu nama penerjemah, nama penerbit dan diakhiri dengan tahun terbitan. Judul 
+laporan diketik dalam huruf miring. Edisi laporan dan jilid laporan diletakkan 
+setelah judul laporan.
+Contoh:
+[1] E. P. Popov, Mekanika Teknik, terjemahan Zainul Astamar, Penerbit Erlangga, 
+1993.
+[2] J. L. Meriam, L. G. Kraige, Mekanika Teknik – Statistika, Jilid 1, Versi SI, 
+terjemahan Tony Mulia, Penerbit Erlangga, 1988.
+3. Perujukan Artikel dan Jurnal
+Urutan penulisan data-data mengenai pustaka berupa artikel atau makalah dalam 
+jurnal diawali dengan nama penulis yang ditulis dengan nama pertama, kedua dan 
+nama keluarga atau given name bila tidak mempunyai nama keluarga. Nama 
+pertama dan kedua dapat disingkat. Nama penulis diakhiri dengan koma dan diikuti 
+dengan judul tulisan, nama jurnal, nomor terbitan volume dan nomor jilid jurnal, 
+halaman awal dan akhir yang memuat artikel tersebut dan diakhiri dengan tahun 
+terbitan. Judul tulisan ditulis diantara tanda petik. Nama jurnal diketik dalam huruf 
+miring. 
+Format standar:
+[##] Pengarang(s), “Judul artikel,” Judul Jurnal, vol.#, no.#, hal, bulan dan tahun 
+terbit.
+Contoh:
+[1] I. M. Astina, H. Sato, “A Rational Helmholtz Fundamental Equation of State for 
+Difluoromethane with an Intermolecular Potential Background”, International 
+Journal of Thermo physics, vol. 24, no. 4, 963-990, 2003.
+[2] Sigit. Y. Martowibowo, B. Suharto, “Metoda Ultrasonik untuk Menentukan 
+Arah Kristal Tunggal Berstruktur”, Jurnal Teknik Mesin, vol. 15, no. 5, 43-45, 
+2000.
+4. Perujukan makalah yang dipresentasikan (seminar/workshop)
+Urutan penulisan data-data mengenai pustaka berupa artikel atau makalah yang 
+dipresentasikan diawali dengan nama penulis yang ditulis dengan nama pertama, 
+kedua, dan nama keluarga atau given name bila tidak mempunyai nama keluarga. 
+Nama pertama dan kedua dapat disingkat. Nama penulis diakhiri dengan koma dan 
+27
+kemudian diikuti dengan judul makalah, nama forum makalah tersebut 
+dipresentasikan serta kota dan tanggal penyelenggaraan forum tersebut.
+Format standar:
+[##] Pengarang(s), “judul tulisan”, nama (dan lokasi) conference, tanggal 
+pelaksanaan seminar, thn, pp.
+Contoh:
+[1] P. King, H. Mandair, C. Belton, D. Copp, “Modelling and Simulation Tools to 
+Calibrate an Engine Management on Board Diagnostic System”, 
+dipresentasikan pada IEEE Seminar, London, 27 March 2000.
+[2] A. H. R. Goodwin, A. Fitt, K. Ronaldson, dan W. A. Wakeham, “Micro Electro 
+Mechanical System (MEMS) for Measurement of Density and Viscosity”, 
+dipresentasikan pada 17th European Conference on Thermophysical on 
+Thermophysical Properties, Bratislava, Slovakia, 5-8 September 2005.
+5. Perujukan makalah dalam prosiding
+Urutan penulisan data-data mengenai pustaka dari makalah yang dimuat dalam 
+prosiding diawali dengan nama penulis yang ditulis dengan nama pertama, kedua, 
+dan nama keluarga atau given name bila tidak mempunyai nama keluarga. Nama 
+pertama dan kedua dapat disingkat. Nama penulis diakhiri dengan koma dan 
+kemudian diikuti dengan judul tulisan, nama prosiding, halaman awal dan akhir 
+yang memuat artikel tersebut dan diakhiri dengan tahun terbitan. Nama jurnal 
+diketik dalam huruf miring. 
+Contoh:
+[1] C. Sarin, I.M Astina, P. S. Darmanto, dan H. Sato, “Thermodynamic Equation 
+of State for Alternative Refrigerant of HC-600”, Prosiding Seminar Nasional 
+Tahunan ke-4 Teknik Mesin, G-2 Konversi Energi, hal 37-42, Kuta Bali, 2005.
+[2] Ridwan Effendi, Effrina Y, Hamid, Susmini. I. Lestariningati, “Performance of 
+Multicarrier on Fading Channel”, Prosiding Seminar International 3rd
+Conference on Telematics System, Service and Applications & 1st Conference 
+on Wireless System, Service and Applications (TSSA/WSSA), hal 239-241, 
+Bandung, 2006.
+28
+6. Perujukan artikel dari majalah
+Untuk artikel yang diterbitkan dalam majalah, rujukannya ditulis mulai dengan 
+nama penulis yang ditulis dengan nama pertama, kedua, dan nama keluarga atau 
+given name bila tidak mempunyai nama keluarga. Nama penulis diikuti dengan 
+judul artikel, batas halaman dan tanggal bulan tahun penerbitan yang memuat 
+artikel tersebut. Bila nama penulis tidak dicantumkan dalam artikel tersebut, maka 
+yang pertama dimulai dengan judul artikel. Nama majalah diketik dengan huruf 
+miring. 
+Contoh:
+[1] Arnawa Widagda, NCP Removable Media: Media Penyimpanan Masa Depan, 
+Chip, hal. 70, Nopember-Desember 2001.
+[2] A.A. Hartanto, LBS Pemandu Yang Setia, Selular, hal 58-59, Maret 2003.
+7. Perujukan Artikel ataupun Informasi dari Website
+Untuk artikel yang diterbitkan lewat internet, penulisannya harus mencantumkan 
+alamat lengkap situs yang memuat artikel tersebut. Urutan penulisan data-data 
+mengenai pustaka berupa artikel atau makalah dalam jurnal ataupun artikel dalam 
+majalah, penulisannya sama dengan terbitan dalam bentuk cetakan bila artikel 
+tesebut jurnal maupun majalah elektronik. Pada akhirnya ditulis alamat lengkap 
+website dan tanggal aksesnya. Nama media jurnal ataupun majalah diketik dengan 
+huruf miring. 
+Format standar:
+[##] Pengarang (s), “Judul dokumen,” Judul website atau pemilik, Tanggal 
+Publikasi. [Online]. Tersedia : URL [Diakses tanggal bulan tahun].
+Contoh:
+[1] P. Landon, “An Introduction to Inflow Prevention”, Pump and System. [Online]. 
+Tersedia: http://www.pump-zone.com/articles/An_Intro.pdf. [Diakses: 9 Maret 
+2006] 
+[2] Dwan, “Paper Complexity and the Interpresentation of Conservation Research”, 
+Journal of the American Institute for Conservation, vol. 26, no. 19, 1987. 
+29
+30
+[Online]. Tersedia: http://www.aic.stanford.edu/jaic/articles/jaic26-01-
+001.html. [Diakses 26 Juni 2006].
+4.3.5 Lampiran
+Lampiran dapat terdiri atas beberapa buah. Lampiran dapat memuat keterangan 
+tambahan, penurunan rumus, contoh perhitungan, data mentah, data sheet, dan 
+sebagainya, yang jika dimasukkan ke dalam tubuh studi literatur akan mengganggu 
+pengutaraan. 
+Setiap lampiran diberi nomor yang berupa huruf kapital abjad latin 
+(A,B,C,…dst). Lampiran didahului oleh satu halaman yang hanya memuat kata 
+LAMPIRAN di tengah halaman. Halaman ini tidak diberi nomor. Nomor halaman 
+lampiran ditulis berdasarkan bagian lampiran dan diberi nomor halamannya dengan 
+menggunakan tanda hubung, misalnya A-2 yang artinya lampiran A halaman 2.
+31
+DAFTAR PUSTAKA
+[1] Isbandi, “Standard penulisan kutipan dan daftar pustaka,” Take it back to 
+knowledge, 11 Oktober 2011. [Online]. Tersedia : 
+https://isbandi.wordpress.com/2011/10/07/standard-penulisan-kutipan-dan-daftar￾pustaka/ [Diakses 19 Maret 2017].
+[2] Threeas, “Standar penulisan daftar pustaka/ referensi (IEEE style),” Persepsiku, 07 
+Oktober 2011. [Online]. Tersedia : 
+https://threeaspolitica.wordpress.com/2011/10/07/standard-penulisan-daftar￾pustakareferensi-ieee-style/ [Diakses 19 Maret 2017].
+[3] Universitas Padjadjaran, Pedoman Penulisan Studi literatur. Bandung: Universitas 
+Padjadjaran, 2005.
+[4] S. Boen, Panduan Teknis Penyusunan Studi literatur Sarjana Sains. Depok: 
+Universitas Indonesia, 2002.
+[5] Susmini, Buku Pedoman Pelaksanaan Tugas Akhir Jurusan Teknik Komputer 
+Universitas Komputer Indonesia, Depok: Universitas Indonesia, 2010.
+LAMPIRAN
+32
+Lampiran A: Kartu Bimbingan SL
+KEMENTERIAN AGAMA 
+UNIVERSITAS ISLAM NEGERI (UIN)
+SUNAN GUNUNG DJATI BANDUNG
+FAKULTAS SAINS DAN TEKNOLOGI
+Jl. AH Nasution No. 105 Bandung
+FORM (FR)
+No. Dok : FST-TU-AKM-FR-C.10
+Tgl. Terbit : 1 September 2014
+No. Revisi: : 00
+Hal : 30/47
+KARTU BIMBINGAN STUDI LITERATUR
+Jurusan Matematika
+Fakultas Sains dan Teknologi
+Nama 
+NIM
+Topik
+Pembimbing
+Tanggal
+Bimbingan
+Topik Bimbingan Catatan Pembimbing
+Paraf 
+Pembimbing
+Lampiran B: LogBook SL
+KEMENTERIAN AGAMA 
+UNIVERSITAS ISLAM NEGERI (UIN)
+SUNAN GUNUNG DJATI BANDUNG
+FAKULTAS SAINS DAN TEKNOLOGI
+Jl. AH Nasution No. 105 Bandung
+FORM (FR)
+No. Dok : FST-TU-AKM-FR-C.10
+Tgl. Terbit : 1 September 2014
+No. Revisi: : 00
+Hal : 30/47
+LOGBOOK BIMBINGAN STUDI LITERATUR
+Jurusan Matematika
+Fakultas Sains dan Teknologi
+Nama 
+NIM
+Topik
+Pembimbing
+Pekan ke: 0 Tanggal:
+Tahap 1: Memilih topik SL
+Uraian kegiatan:
+Catatan Pembimbing Paraf Pembimbing
+Silakan download logbook SL (semua tahap) pada file terpisah.
+Lampiran C: Kartu Kehadiran Seminar SL
+KARTU KEHADIRAN
+SEMINAR STUDI LITERATUR
+Jurusan Matematika
+Fakultas Sains dan Teknologi
+Nama 
+NIM
+Nama Peserta Judul Studi Literatur
+Tanggal 
+Seminar
+Paraf 
+Pembimbing
+Peserta
+Lampiran D: Rekapitulasi Penilaian Seminar SL
+KEMENTERIAN AGAMA 
+UNIVERSITAS ISLAM NEGERI (UIN)
+SUNAN GUNUNG DJATI BANDUNG
+FAKULTAS SAINS DAN TEKNOLOGI
+Jl. AH Nasution No. 105 Bandung
+FORM (FR)
+No. Dok : FST-TU-AKM-FR-C.12
+Tgl. Terbit : 1 September 2014
+No. Revisi: : 00
+Hal : 36/47
+BERITA ACARA PRESENTASI SEMINAR STUDI LITERATUR
+REKAPITULASI PENILAIAN
+Seminar Studi Literatur
+Nama :
+NIM :
+Judul :
+Komposisi
+Bobot Nilai 
+Pembimbing Nilai Penguji
+Sistematika Penulisan: Kualitas laporan ada 
+proses proofreading dengan teman sesama 
+kelompok bimbingan.
+1
+Isi (masalah yang diajukan, kompleksitas 
+permasalahan yang dikaji, yang dikategorikan 
+ke dalam tingkat: kompleks, sedang, dan 
+mudah) 2
+Analisis (formulasi masalah, penggunaan 
+literatur, pembahasan, analisis masalah dan 
+penarikan kesimpulan)
+2
+Kualitas presentasi: Penguasaan pengetahuan 
+faktual (komprehensif yang menyangkut studi 
+literatur)
+1
+Cara menanggapi dan memecahkan masalah 
+(kemandirian, kreatifitas, orisinalitas, 
+2
+pandangan, cara kerja, obyektifitas, dan etika 
+ilmiah)
+Keaktifan dalam kegiatan pembimbingan: 
+kehadiran bimbingan, ketepatan langkah￾langkah dalam penyelesaian SL, dan kualitas 
+kegiatan mahasiswa pada setiap langkah 
+penyelesaian.
+2
+Nilai Pembimbing = (1( )+2( )+2( )+1( )+2( )+2( )) / 10 =
+Nilai Penguji = (1( )+2( )+2( )+1( )+2( )) / 8 =
+Nilai Akhir = (Nilai Pembimbing ( ) + Nilai Penguji ( )) / 2 =
+Huruf Mutu = 
+Penguji
+__________________________
+ NIP.
+Bandung,_______________________
+Pembimbing
+__________________________
+ NIP.
+𝐴 ≥ 80
+70 ≤ 𝐵 < 80
+60 ≤ 𝐶 < 70
+50 ≤ 𝐷 < 60
+Lampiran E: Contoh Cover Depan Studi Literatur
+Cover depan silakan di-download pada file terpisah.
+Lampiran F: Contoh Cover Belakang Studi Litratur
+Cover belakang silakan di-download pada file terpisah.
+Lampiran G: Lembar Pengesahan SL
+LEMBAR PENGESAHAN
+<JUDUL SL>
+______________________________________________________________________
+______________________________________________________________________
+STUDI LITERATUR
+JURUSAN____________
+FAKULTAS SAINS DAN TEKNOLOGI
+UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI BANDUNG 
+Oleh:
+_________________________ 
+NIM: __________________
+Bandung, ___________________
+Menyetujui,
+Dosen Pembimbing SL, Dosen Penguji SL,
+___________________________
+NIP. _________________
+___________________________
+NIP. _________________
+Mengetahui,
+Ketua Jurusan __________,
+___________________________
+NIP. _________________
+Lampiran H: Contoh daftar isi
+DAFTAR ISI
+HALAMAN PENGESAHAN i
+ABSTRAK ii
+KATA PENGANTAR iii
+DAFTAR ISI iv
+DAFTAR LAMPIRAN v
+BAB I PENDAHULUAN 1
+1.1 Latar Belakang Masalah 1
+1.2 Rumusan Masalah 2
+1.3 Batasan Masalah 3
+1.4 Tujuan Penelitian 4
+1.5 Ruang Lingkup Penelitian 5
+1.6 Sistematika Penulisan 6
+BAB II LANDASAN TEORI 7
+2.1 Teori A 8
+2.2 Teori B 10
+BAB III PEMBAHASAN 15
+3.1 Pembahasan A 20
+3.2 Pembahasan B 24
+BAB IV PENUTUP 25
+4.1 Kesimpulan 25
+4.2 Saran 26
+DAFTAR PUSTAKA 27
+LAMPIRAN
+Lampiran I: Contoh daftar pustaka
+DAFTAR PUSTAKA
+[1] D. M. Bates, D.G. Wates, Non Linear Regression Analysis and its Applications, New 
+York: John Wiley & Sons, 1988.
+[2] W. D. Callister, Material Science and Engineering: An Introduction, Edisi 2, John Wiley 
+& Sons, 1991.
+[3] World Bank, Information and Communication Technologies: A World Bank group 
+strategy. Washington, DC : World Bank, 2002. 
+[4] Australia. Attorney Generals Department. Digital Agenda Review, 4 vols. Canberra: 
+Attorney-General’s Department, 2003. 
+[5] Bell Telephone Laboratories Technical Staff, Transmission System for Communications, 
+Bell Telephone Laboratories, 1995. 
+[7] E. Sukaesih, “Teorema pemetaan kontraktif pada himpunan tertutup di ruang norm-n,” 
+Ph.D. dissertation, Jur. Matematika., ITB, Bandung, Indonesia, 2017.
+[8] E. P. Popov, Mekanika Teknik, terjemahan Zainul Astamar, Penerbit Erlangga, 1993.
+[9] Sigit. Y. Martowibowo, B. Suharto, “Metoda Ultrasonik untuk Menentukan Arah Kristal 
+Tunggal Berstruktur”, Jurnal Teknik Mesin, vol. 15, no. 5, 43-45, 2000.
+[10] C. Sarin, I.M Astina, P. S. Darmanto, dan H. Sato, “Thermodynamic Equation of State 
+for Alternative Refrigerant of HC-600”, Prosiding Seminar Nasional Tahunan ke-4 
+Teknik Mesin, G-2 Konversi Energi, hal 37-42, Kuta Bali, 2005.
+[11] A.A. Hartanto, LBS Pemandu Yang Setia, Selular, hal 58-59, Maret 2003.
+[12] P. Landon, “An Introduction to Inflow Prevention”, Pump and System. [Online]. 
+Tersedia: http://www.pump-zone.com/articles/An_Intro.pdf. [Diakses: 9 Maret 2006] 
+Lampiran J: Contoh Penulisan Abstrak
+ABSTRAK
+Nama : Fulanah binti Fulan
+NIM : 207000010
+Judul : Analisis Distribusi Campuran Gauss Untuk Data Masa Hidup Dengan 
+Menggunakan Algoritma Expectation Maximazition (EM)
+Dalam abstrak dijelaskan latar belakang penelitian, metode yang digunakan dan hasil 
+penelitian. Abstrak ditulis 75-250 kata dalam satu paragraf dengan 1 spasi.
+Kata Kunci: Distribusi Campuran Gauss, Data Masa Hidup, Algoritma Expectation 
+Maximazition (EM)
